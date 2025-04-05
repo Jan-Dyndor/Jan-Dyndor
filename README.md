@@ -8,11 +8,28 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 - 🧪 Currently working as a pharmacist while pursuing a career in ML  
 - 💻 Focused on combining healthcare (but not only!) and AI to build impactful solutions
 
-## 🚀 Projects Highlights
-- **Alzheimer’s Detection with MRI Scans** (CNNs, transfer learning, data augmentation)  
-- **Handwritten Digit Recognition** (SVC vs PyTorch NN)  
-- **Imbalanced Classification** using SMOTE + PyTorch/XGBoost  
-> 👉 Check them out on my [Kaggle](https://www.kaggle.com/jandyndor) and [GitHub repositories](https://github.com/Jan-Dyndor)
+## 🧠 Skills & Tools
+
+**Programming & Data:**
+- Python, SQL (PostgreSQL), JavaScript (basic), C# (basic)
+
+**Machine Learning & AI:**
+- Scikit-learn, PyTorch, TensorFlow (basic), XGBoost, CatBoost
+- Hyperparameter tuning, Transfer Learning
+
+**Data Processing & Visualization:**
+- Pandas, NumPy, Feature-engine, Spark (basic)
+- Matplotlib, Seaborn
+
+**Dev Tools:**
+- Git & GitHub
+- Jupyter Notebooks, VS Code, PyCharm
+- Linux (basic), Command Line
+
+**Soft Skills:**
+- Problem solving, critical thinking
+- Communication & teamwork
+- Fast learner & adaptable
 
 ## 🌱 I’m currently learning:
 - Apache Spark for Big Data
