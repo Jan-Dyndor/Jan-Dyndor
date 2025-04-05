@@ -40,7 +40,17 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 - Internship or job in Data Science / Machine Learning team!
 - Open-source ML projects
 - Healthcare + AI research
-  
+
+## 📂 My Projects
+
+Here are a few of my selected data science and machine learning projects:
+
+- 🧠 **[Alzheimer’s Detection Using MRI Scans](https://github.com/Jan-Dyndor/alzheimer-mri-detection)**  
+  Deep learning project using CNNs (ResNet50, VGG16, EfficientNetB4) to classify MRI scans and detect Alzheimer's disease. Includes patient-level data splitting, augmentation analysis, and binary vs multi-class comparison.
+
+> More projects coming soon – stay tuned!
+
+
 ## 📫 How to reach me:
 - 📧 dyndorjan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-dyndor/)  
