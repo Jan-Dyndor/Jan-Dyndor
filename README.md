@@ -19,12 +19,12 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 - Python for Data Engineering
 - Git & Version Control
 - English for Tech Communication
-- 
+  
 ## 🤝 I’m looking to collaborate on:
+- Internship or job in Data Science / Machine Learning team!
 - Open-source ML projects
 - Healthcare + AI research
-- Model evaluation and interpretability
-- 
+  
 ## 💬 Ask me about:
 - Machine Learning projects (especially in healthcare)
 - Python, PyTorch, Scikit-learn
