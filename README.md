@@ -7,6 +7,7 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 - 🎓 B.Eng. in Computer Science, WSB Merito Poznań  
 - 🧪 Currently working as a pharmacist while pursuing a career in ML  
 - 💻 Focused on combining healthcare (but not only!) and AI to build impactful solutions
+- 🌍 Multilingual: Polish (native), English (B2–C1), German (B1)
 
 ## 🧠 Skills & Tools
 
@@ -33,8 +34,6 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 
 ## 🌱 I’m currently learning:
 - Apache Spark for Big Data
-- Python for Data Engineering
-- Git & Version Control
 - English for Tech Communication
   
 ## 🤝 I’m looking to collaborate on:
@@ -42,11 +41,6 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 - Open-source ML projects
 - Healthcare + AI research
   
-## 💬 Ask me about:
-- Machine Learning projects (especially in healthcare)
-- Python, PyTorch, Scikit-learn
-- Preprocessing & data pipeline design
-
 ## 📫 How to reach me:
 - 📧 dyndorjan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-dyndor/)  
