@@ -47,6 +47,8 @@ Here are a few of my selected data science and machine learning projects:
 
 - 🧠 **[Alzheimer’s Detection Using MRI Scans](https://github.com/Jan-Dyndor/alzheimer-mri-detection)**  
   Deep learning project using CNNs (ResNet50, VGG16, EfficientNetB4) to classify MRI scans and detect Alzheimer's disease. Includes patient-level data splitting, augmentation analysis, and binary vs multi-class comparison.
+- 🧠 **[How to deal with imbalance in datasets]**(https://github.com/Jan-Dyndor/How-to-deal-with-imbalance--PyTorch-XGB-SMOTE/tree/main)
+  This project investigates how different resampling techniques combined with machine learning models can effectively address class imbalance in tabular data classification tasks.
 - 🧠 **[Garbage Classification with ResNet50](https://github.com/Jan-Dyndor/Garbage-Classification/tree/main)**
   This project utilizes transfer learning with the ResNet50 architecture to classify garbage images into multiple categories.
 > More projects coming soon – stay tuned!
