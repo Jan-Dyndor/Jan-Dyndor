@@ -34,7 +34,8 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 
 ## 🌱 I’m currently learning:
 - Apache Spark for Big Data
-- English for Tech Communication
+- PyTest
+- ETL ( Databricks)
   
 ## 🤝 I’m looking to collaborate on:
 - Internship or job in Data Science / Machine Learning team!
