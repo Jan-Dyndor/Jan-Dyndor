@@ -5,7 +5,7 @@ I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate 
 ## 👨‍⚕️👨‍💻 About Me
 - 🎓 Master of Pharmacy, Poznan University of Medical Sciences  
 - 🎓 B.Eng. in Computer Science, WSB Merito Poznań  
-- 🧪 Currently working as a pharmacist while pursuing a career in ML  
+- 🧪 Currently working as Software Developer in AXA XL 
 - 💻 Focused on combining healthcare (but not only!) and AI to build impactful solutions
 - 🌍 Multilingual: Polish (native), English (B2–C1), German (B1)
 
