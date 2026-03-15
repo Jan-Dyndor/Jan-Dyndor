@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jan Dyndor
 
-I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate about **Machine Learning**, **Deep Learning**, and **Data Science** in the healthcare domain.
+I'm a dual-degree graduate in **Pharmacy** and **Computer Science**, passionate about **AI Engineering** , **Machine Learning**, **Deep Learning**, and **Data Science** 
 
 ## 👨‍⚕️👨‍💻 About Me
 - 🎓 Master of Pharmacy, Poznan University of Medical Sciences  
