@@ -17,7 +17,7 @@ Currently working as a **Software Developer at AXA XL**, where I contribute to d
 - 🌍 Languages:  
   - Polish — Native  
   - English — B2/C1  
-  - German — B1  
+  - German — B2
 
 My long-term goal is to become an **AI Engineer building production-grade ML and LLM systems**.
 
@@ -83,6 +83,7 @@ Features:
 - JWT authentication
 - async architecture
 - model evaluation pipeline using golden dataset
+- DB connection
 
 
 ---
@@ -92,7 +93,7 @@ Features:
 
 End-to-end **automated ETL pipeline built on Databricks** that processes real financial data from the **Narodowy Bank Polski (NBP) public API**.
 
-The pipeline runs automatically once per day and sends an **email notification after each successful execution**, simulating a production-style data pipeline.
+The pipeline runs automatically once per day (currently due to inactivity daily updates stopped) and sends an **email notification after each successful execution**, simulating a production-style data pipeline.
 
 **Key Features**
 
@@ -149,10 +150,6 @@ The project focuses on **backend engineering fundamentals**: clean architecture,
 | Prometheus | http://localhost:9090 |
 | Grafana | http://localhost:3030 |
 
-
-
-
-
 ---
 
 ## 🧠 Alzheimer's Detection Using MRI
@@ -171,7 +168,7 @@ Key aspects:
 - Medical imaging preprocessing
 
 
-More projects coming soon.
+More projects coming soon!
 
 ---
 
