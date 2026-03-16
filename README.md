@@ -43,7 +43,7 @@ I enjoy building **AI-powered systems, ML pipelines, and production-style APIs**
 
 # 🚀 Selected Projects
 
-## 🤖 LLM Spam Classifier API
+## LLM Spam Classifier API
 🔗 https://github.com/Jan-Dyndor/LLM_spam
 
 Production-style AI backend that classifies messages as **spam or ham using Google Gemini**.
@@ -58,7 +58,7 @@ Production-style AI backend that classifies messages as **spam or ham using Goog
 
 ---
 
-## 🏗 Life_ETL – Automated Databricks ETL Pipeline
+## Life_ETL – Automated Databricks ETL Pipeline
 🔗 https://github.com/Jan-Dyndor/Life_ETL  
 🌐 https://lifeetl-tumyuyaf3tuxwfok8ssf5c.streamlit.app/
 
@@ -73,7 +73,7 @@ End-to-end **ETL pipeline built on Databricks** processing financial data from t
 
 ---
 
-## 📊 Text Processing API with Observability
+## Text Processing API with Observability
 🔗 https://github.com/Jan-Dyndor/Text_API_and_GRAFANA_observability
 
 FastAPI backend designed to practice **clean API architecture and observability**.
@@ -88,7 +88,7 @@ FastAPI backend designed to practice **clean API architecture and observability*
 
 ---
 
-## 🧠 Alzheimer's MRI Classification
+## Alzheimer's MRI Classification
 🔗 https://github.com/Jan-Dyndor/alzheimer-mri-detection
 
 Deep learning project detecting **Alzheimer's disease from MRI scans**.
@@ -97,16 +97,3 @@ Deep learning project detecting **Alzheimer's disease from MRI scans**.
 - transfer learning
 - medical imaging preprocessing
 - augmentation experiments
-
----
-
-# 📫 Contact
-
-📧 **Email**  
-dyndorjan@gmail.com  
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/jan-dyndor/
-
-📊 **Kaggle**  
-https://www.kaggle.com/jandyndor
