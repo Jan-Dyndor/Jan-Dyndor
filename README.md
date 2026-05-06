@@ -2,7 +2,7 @@
 
 AI / Machine Learning Engineer with a dual background in **Pharmacy** and **Computer Science**.
 
-Currently working as a **Software Developer at AXA XL**, building data-related systems while developing expertise in **AI engineering, machine learning, and LLM-powered backend applications**.
+Currently working as a **Data/Software Graduate at AXA XL**, building data-related systems while developing expertise in **AI engineering, machine learning, and LLM-powered backend applications**.
 
 I enjoy building **AI-powered systems, ML pipelines, and production-style APIs**.
 
@@ -43,6 +43,24 @@ I enjoy building **AI-powered systems, ML pipelines, and production-style APIs**
 
 # 🚀 Selected Projects
 
+## AI Conversational Chatbot
+🔗 https://github.com/Jan-Dyndor/AI-ChatBot
+
+Production-oriented local LLM chatbot built with FastAPI, Streamlit and Ollama to deeply understand how modern AI systems work under the hood without relying on high-level frameworks such as LangChain.
+
+**Features**
+- local LLM integration with Ollama
+- streaming AI responses
+- FastAPI + Streamlit architecture
+- layered backend architecture
+- request tracing middleware
+- structured logging with Loguru
+- Pydantic settings & validation
+- async/backend system design
+- uv-based project management
+- planned Redis/PostgreSQL persistence
+- planned observability stack (Grafana/Loki/Prometheus)
+  
 ## LLM Spam Classifier API
 🔗 https://github.com/Jan-Dyndor/LLM_spam
 
