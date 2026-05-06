@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jan Dyndor
 
-AI / Machine Learning Engineer with a dual background in **Pharmacy** and **Computer Science**.
+AI Engineer with a dual background in **Pharmacy** and **Computer Science**.
 
 Currently working as a **Data/Software Graduate at AXA XL**, building data-related systems while developing expertise in **AI engineering, machine learning, and LLM-powered backend applications**.
 
@@ -38,6 +38,7 @@ I enjoy building **AI-powered systems, ML pipelines, and production-style APIs**
 - PyTest
 - Linux / CLI
 - Jupyter, VS Code, PyCharm
+- Databricks
 
 ---
 
